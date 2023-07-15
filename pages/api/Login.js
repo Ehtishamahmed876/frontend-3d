@@ -5,7 +5,7 @@ import { withIronSessionApiRoute } from 'iron-session/next'
 // import { NextApiRequest, NextApiResponse } from 'next'
 // import fetchJson from '../../lib/fetchJson'
 // import { LOGIN, ADMIN_LOGIN } from '../../services/ServiceUrl'
-export  const url = "http://backend3d2.onrender.com"
+export  const url = "https://backend3d2.onrender.com"
 
 // import  {FormData} from 'formdata-node'
 // import axios from 'axios'
