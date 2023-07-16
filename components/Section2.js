@@ -1,6 +1,6 @@
 const TextImageSection2 = ({ title, text, imageUrl }) => {
     return (
-        <section className="flex bg-white text-black gap-2 flex-col lg:flex-row items-center lg:items-start max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+        <section className="flex bg-white text-black gap-2 flex-col-reverse lg:flex-row items-center lg:items-start max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
 
 
                {/* Image */}

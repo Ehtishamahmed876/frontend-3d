@@ -15,7 +15,7 @@ const Home = () => {
         imageUrl="/section1.webp"
       />
 
-<TextImageSection2
+      <TextImageSection2
         title="Our Goal"
         text="We are committed to staying at the forefront of technological advancements, continuously improving our platform, and expanding the possibilities of 3D experiences. Join us on this exciting journey as we push the boundaries of what's possible in the digital realm."
         imageUrl="/section2.webp"

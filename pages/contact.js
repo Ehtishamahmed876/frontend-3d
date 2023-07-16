@@ -10,9 +10,9 @@ const Contact = () => {
       <h2 className="text-3xl text-black font-bold mb-4">Contact Us</h2>
       <p className="text-lg text-black mb-8">We would love to hear from you!</p>
       <div className="flex flex-col items-center justify-center bg-blue-500 p-8 rounded-md">
-        <p className="text-white text-lg mb-4">John Doe</p>
-        <p className="text-white text-lg mb-4">Email: johndoe@example.com</p>
-        <p className="text-white text-lg">Phone: 123-456-7890</p>
+        <p className="text-white text-lg mb-4">Saba Ansari</p>
+        <p className="text-white text-lg mb-4">Email: Sabaansari0114@gmail.com</p>
+        <p className="text-white text-lg">Phone: 0314 6614675</p>
       </div>
       <form className="flex  flex-col w-1/2 mt-8">
         <input
